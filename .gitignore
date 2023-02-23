@@ -1,0 +1,6 @@
+cat .gitignore
+
+*old
+*backup
+Thumbs.db
+.DS_Store
