@@ -4,3 +4,4 @@ cat .gitignore
 *backup
 Thumbs.db
 .DS_Store
+/tmp
